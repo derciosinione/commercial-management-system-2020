@@ -1,4 +1,4 @@
-# Commercial Management System 
+# DS Commercial Management System 
 
 This project is being developed by me using the C# programing language, I have developed this project since June 2020 so far I have 70% completed development.
 
